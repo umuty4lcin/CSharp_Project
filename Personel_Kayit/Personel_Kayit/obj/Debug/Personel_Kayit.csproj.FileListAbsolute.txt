@@ -1,0 +1,13 @@
+C:\Users\Umut\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe.config
+C:\Users\Umut\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe
+C:\Users\Umut\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.pdb
+C:\Users\Umut\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.AssemblyReference.cache
+C:\Users\Umut\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Form1.resources
+C:\Users\Umut\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Properties.Resources.resources
+C:\Users\Umut\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.GenerateResource.cache
+C:\Users\Umut\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\Umut\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.exe
+C:\Users\Umut\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.pdb
+C:\Users\Umut\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmIstatistik.resources
+C:\Users\Umut\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmGrafikler.resources
+C:\Users\Umut\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmGiris.resources
